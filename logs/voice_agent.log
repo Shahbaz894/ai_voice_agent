@@ -1,0 +1,54 @@
+2026-02-22 16:34:54,083 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:34:54,083 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:47:08,835 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:47:08,835 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:47:20,358 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 16:47:00
+2026-02-22 16:47:20,358 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 16:47:00
+2026-02-22 16:47:23,250 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:47:23,250 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:48:37,687 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:48:37,687 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:48:43,084 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:48:43,084 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:49:04,838 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 16:49:00
+2026-02-22 16:49:04,838 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 16:49:00
+2026-02-22 16:49:08,769 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 16:49:08,769 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 17:16:04,793 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 17:16:04,793 | INFO | VoiceAgent | Listed appointments for date 2026-02-22
+2026-02-22 17:21:35,336 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:21:35,336 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:25:04,247 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 17:25:00
+2026-02-22 17:25:04,247 | INFO | VoiceAgent | Appointment scheduled for shahbaz at 2026-02-23 17:25:00
+2026-02-22 17:25:07,670 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:25:07,670 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:25:09,899 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:25:09,899 | INFO | VoiceAgent | Listed 0 appointments for 2026-02-22
+2026-02-22 17:27:47,160 | INFO | VoiceAgent | Listed 4 appointments for 2026-02-23
+2026-02-22 17:27:47,160 | INFO | VoiceAgent | Listed 4 appointments for 2026-02-23
+2026-02-22 17:28:59,775 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:28:59,775 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:29:16,313 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:29:16,313 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:29:34,516 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:29:34,516 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:29:38,217 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:29:38,217 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:29:44,119 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:29:44,119 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:40:32,682 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:40:32,682 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:40:46,445 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:40:46,445 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:41:25,218 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:41:25,218 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:46:29,232 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:46:29,232 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:46:46,708 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:46:46,708 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:47:02,265 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:47:02,265 | ERROR | VoiceAgent | Error canceling appointment: No appointment found to cancel
+2026-02-22 17:49:09,977 | INFO | VoiceAgent | Canceled 4 appointment(s) for shahbaz
+2026-02-22 17:49:09,977 | INFO | VoiceAgent | Canceled 4 appointment(s) for shahbaz
+2026-02-22 17:49:13,930 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
+2026-02-22 17:49:13,930 | INFO | VoiceAgent | Listed appointments for date 2026-02-23
