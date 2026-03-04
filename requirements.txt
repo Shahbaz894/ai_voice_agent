@@ -1,8 +1,7 @@
 fastapi
-
-uvicorn
-
+uvicorn[standard]
 pydantic
-
 sqlalchemy
-vapi
+python-dotenv
+requests
+vapi-server-sdk
