@@ -4,6 +4,7 @@ Handles scheduling, canceling and listing patient appointments
 """
 
 import datetime as dt
+import os
 from typing import List
 
 from fastapi import FastAPI, Depends, Request
@@ -200,5 +201,9 @@ def list_appointments(date: dt.date, db: Session = Depends(get_db)):
 
 import uvicorn
 
+# if __name__ == "__main__":
+#     uvicorn.run("backend:app", host="127.0.0.1", port=8000, reload=True)
+
 if __name__ == "__main__":
-    uvicorn.run("backend:app", host="127.0.0.1", port=8000, reload=True)
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("backend:app", host="0.0.0.0", port=port)
